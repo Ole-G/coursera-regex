@@ -1,0 +1,35 @@
+email,firstname,lastname,phone,confirmed,created,workspaces,name,minsize,maxsize,members,accepted,toolset
+a@bitegri.co,Andrii,Krutko,+380679187760,True,2021-11-12 11:12:02.988000+00:00,['NONE:T8RF5QMP0'],Bitegrico,0,15,34,4,[]
+lukasv@boredpanda.com,Lukas,Visockas,None,True,2021-11-23 10:28:41.085000+00:00,['NONE:TTH5Y7G2J'],bp,101,9999,82,1,[]
+jonatan@apphive.io,Jonatan,Vazquez,None,True,2021-11-23 13:07:41.806000+00:00,[],Apphive,0,15,0,0,"['otherService', 'slask']"
+onur@glacial.com,Onur,Birsen,None,True,2021-11-23 14:53:16.077000+00:00,[],Glacial,16,50,0,0,[]
+eweisman@easystandard.co,Eric,Weisman,None,True,2021-11-23 20:07:03.873000+00:00,[],EasyStandardo,0,15,0,0,"['slask', 'googleWorkspace']"
+mikihiro.fujii@stageandgo.jp,Mikihiro,Fujii,None,True,2021-11-25 05:16:21.411000+00:00,[],Stage&Go,0,15,0,0,[]
+oleh@pavooq.com,Oleh,Rozvadovskyy,+380503770487,True,2021-12-09 09:33:05.119857+00:00,['NONE:T01FL8AAT5F'],Pavooq,0,15,9,5,"['slask', 'telegram', 'googleMeet']"
+john.doe@example.com,None,None,None,False,2021-12-09 09:38:55.633052+00:00,[],None,0,0,0,0,[]
+jon.dou@gmail.com,None,None,None,False,2021-12-09 20:43:14.300146+00:00,[],None,0,0,0,0,[]
+viktorkushnarov@gmail.com,A,B,+111,True,2021-12-09 22:56:05.581289+00:00,[],D,0,15,0,0,['slask']
+owais_zidd@outlook.com,Owais,Siddiqui,None,False,2021-12-21 14:22:46.111869+00:00,[],Vault City,0,15,0,0,['otherService']
+kp@simpact.vc,Kamil,Pry,None,False,2021-12-22 06:31:47.107627+00:00,[],Simpact,0,15,0,0,"['slask', 'microsoftTeams', 'googleMeet', 'googleChat']"
+stackshare.test1@gmail.com,test,test,+111111111111,False,2021-12-24 12:21:18.784254+00:00,[],test,0,15,0,0,"['slask', 'whatsApp', 'microsoftTeams', 'telegram', 'googleMeet', 'googleWorkspace', 'googleChat', 'zoom']"
+314929847@qq.com,not,owe,+18349229004,True,2022-01-05 02:22:00.493508+00:00,[],botowe,0,15,0,0,[]
+lhouse.unicorn@gmail.com,None,None,None,False,2022-01-12 10:58:57.069497+00:00,[],None,0,0,0,0,[]
+angelina.kushnarova@gmail.com,angelina.kushnarova@gmail.com,angelina.kushnarova@gmail.com,+1111,False,2022-01-19 10:02:55.532774+00:00,[],angelina,0,15,0,0,['telegram']
+coranam425@superyp.com,coranam,coran,None,True,2022-03-21 18:33:33.610539+00:00,[],coranam425,0,15,0,0,"['otherService', 'whatsApp', 'googleMeet']"
+1464612307@qq.com,lydia,yang,None,False,2022-03-22 06:20:34.636983+00:00,[],jkjnhn.m/m/,0,15,0,0,[]
+na.minnekhuzin@g-group.global,Niyaz,Minnekhuzin,None,False,2022-03-22 11:49:48.550276+00:00,[],g-group,101,9999,0,0,['microsoftTeams']
+boris@axisconsulting.io,Boris,Tsibelman,None,True,2022-03-22 16:08:00.256156+00:00,[],Axis COnsulting,0,15,0,0,"['slask', 'googleMeet', 'googleWorkspace', 'googleChat', 'zoom']"
+jerome@prototyper.fr,jérôme,Heissler,None,True,2022-03-22 17:27:32.633292+00:00,[],Prototyper,0,15,0,0,"['otherService', 'googleWorkspace', 'googleMeet']"
+tools@jens.marketing,Jens,Polomski,None,True,2022-03-24 19:32:11.806552+00:00,[],Jens.Marketing,0,15,0,0,[]
+jiayutao371@gmail.com,yutao,jia,+18638570366,False,2022-03-28 08:07:00.625427+00:00,[],dakuai,16,50,0,0,[]
+fodrabirza@vusra.com,fffffffffffffff111,fffffffffffffffff,+1201550000,False,2022-03-29 19:00:48.178641+00:00,[],ggggggggg,16,50,0,0,[]
+matt@b2storefront.com,Matt,Mortek,+48668995071,True,2022-04-05 16:43:32.765307+00:00,[],B2Storefront,0,15,0,0,[]
+mehr.egh.61@gmail.com,Fatemeh,Eghtesadi,None,True,2022-05-26 17:16:09.906989+00:00,[],Farassan,51,100,0,0,[]
+elena.mayer@forvia.de,Elena,Mayer,None,False,2022-06-01 08:32:40.695351+00:00,[],Forvia,101,9999,0,0,[]
+elena.mayer@forvia.com,Elena,Mayer,None,True,2022-06-01 08:34:10.957839+00:00,[],Forvia,101,9999,0,0,[]
+erian.suwandi@gmail.com,Erian,Suwandi,+628535251718,False,2022-06-09 10:57:25.448484+00:00,[],xtremax,16,50,0,0,[]
+itinerant.me@gmail.com,Victor,Choudhary,None,False,2022-06-18 15:47:04.498645+00:00,[],Startup,0,15,0,0,"['slask', 'whatsApp', 'googleMeet', 'otherService', 'googleChat', 'zoom']"
+raph@cloudcentrique.com,raph,kasa,+3435336436,False,2022-07-05 10:26:46.906998+00:00,[],cloudcentrique,51,100,0,0,[]
+roger.chou@teradek.com,Roger,Chou,None,True,2022-07-26 21:28:23.793417+00:00,['NONE:T0274HNM1'],Teradek,101,9999,869,1,"['slask', 'googleWorkspace', 'zoom', 'googleMeet']"
+valery.cherna@gmail.com,Lera,Ch,None,True,2022-08-01 08:11:39.618024+00:00,[],1,0,15,0,0,"['slask', 'googleChat', 'whatsApp', 'microsoftTeams', 'googleMeet', 'telegram', 'zoom']"
+steve01@swissmail.com,steve,duval,None,True,2022-08-07 12:41:21.666012+00:00,[],B2B CONSULTING,16,50,0,0,[]
